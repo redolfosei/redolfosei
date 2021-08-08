@@ -1,8 +1,22 @@
 <img src="/banner0099.png" alt="banner">
-<b> ### Hi there 👋, welcome to my github page </b>
+<p> <b> ### Hi there 👋, welcome to my github page </b> </p>
 <p> I am Redolf Kwame Osei, I do a lot of stuffs and you might find some of the things I do interesting </p>
 <p> You are free to use my work and even improve upon them </p>
 <p> it's optional, you can share with me, if you improve on any of my work, I will be curious about that 😊 </p>
+
+---
+
+Moi,
+
+ <p> 🎓 Graduated with Bachelor's Degree in ICT Education.</p>
+ <p> ⚡ I am more of a self-learner who loves learning things from the internet apart from the lecturerooms. </p>
+ <p> ✌️ I am super positive and I always look forward for new adventures in technology.</p>
+ <p> 😎 I am a self-trained Web Developer and my journey began at my age of 20! </p>
+ <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
+ <p> ⏱️ I spend most of my time practicing code and learning from new thing on udemy, coursera, theodinproject, codewar, freecodecamp, youtube etc
+ <p> 🎮 I love playing video games! </p>
+ <p> ✈️ I love travel , food and adventure. I invest money - I spend it on books and gadgets too! </p>
+
 
 ---
 
@@ -19,8 +33,9 @@ What I do.
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />  
 </p>
 
+---
 
-**### send me a message  **
+ send me a message
   - I am open for collaborarions, so feel free to send me a message. You can also find me here.
 <p>
   <a href="https://www.youtube.com/channel/UCV4mJXsZPRcGFbZLurtToBA">
@@ -56,4 +71,8 @@ What I do.
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=redolfosei"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=@redolfosei"
 />
