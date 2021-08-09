@@ -74,5 +74,5 @@ What I do.
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=@redolfosei"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=redolfosei"
 />
