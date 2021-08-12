@@ -73,6 +73,8 @@ What I do.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=redolfosei"
 />
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@redolfosei)
+
 <img
   src="https://github-readme-stats.vercel.app/api/wakatime?username=redolfosei"
 />
