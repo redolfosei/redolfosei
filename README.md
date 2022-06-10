@@ -11,7 +11,7 @@ Moi,
  <p> 🎓 Graduated with Bachelor's Degree in ICT Education.</p>
  <p> ⚡ I am more of a self-learner who loves learning things from the internet apart from the lecturerooms. </p>
  <p> ✌️ I am super positive and I always look forward for new adventures in technology.</p>
- <p> 😎 I am a self-trained Web Developer and my journey began at my age of 20! </p>
+ <p> 😎 I am a self-trained Web Developer and my journey began at my age of 20!. </p>
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
  <p> ⏱️ I spend most of my time coding and learning new stuff on udemy, theodinproject, youtube, coursera, codewar, freecodecamp.
  <p> 🎮 I love playing video games too! FIFA and other adventurous games. </p>
