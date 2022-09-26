@@ -34,7 +34,12 @@ Tools and Tech I use.
 <img alt="python" src="https://img.shields.io/badge/Python-yellow?logo=python&logicColor=white&style=for-the-badge"/> 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white&style=for-the-badge" />
 <img alt="Web3" src="https://img.shields.io/badge/Web3-f16822?logo=Web3.js&logoColor=white&style=for-the-badge" /> 
-<img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" />   
+<img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" /> 
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-#7AB55C?logo=Shopify&logoColor=white&style=for-the-badge" />
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-#21759B?logo=WordPress&logoColor=white&style=for-the-badge" />
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-#557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" /> 
+ 
 </p>
 
 ---
