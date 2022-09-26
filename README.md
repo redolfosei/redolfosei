@@ -21,7 +21,7 @@ Moi,
 
 ---
 
-Tools and Tech. 
+Tools and Tech I use. 
 
 <p>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" /> 
