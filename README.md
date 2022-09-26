@@ -1,5 +1,5 @@
 <img src="/banner0099.png" alt="banner">
-<p> <b> ### Hi there 👋, welcome to my github page. </b> </p>
+<p> <b> ### Hola! 👋, welcome to my github page. </b> </p>
 <p> I am Redolf Kwame Osei, you might find the things I do interesting. </p>
 <p> You are free to use my work and even improve upon them. </p>
 <p> You can share with me, if you improve on any of my works, I will be curious about that. 😊 </p>
@@ -10,12 +10,12 @@ Moi,
 
  <p> 🎓 Graduated with Bachelor's Degree in BScICT.</p>
  <p> ⚡ More of a self-learner who loves learning new technologies and tools from the internet. </p>
- <p> ✌️ I am super positive and always look forward for new adventures in technology.</p>
+ <p> ✌️ Super positive and I always look forward for new adventures in technology.</p>
  <p> 😎 I am a self-trained Web Developer and my journey began at my age of 20!. </p>
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
  <p> ⏱️ I spend most of my time coding and learning new stuff from documentations, udemy, theodinproject, youtube, coursera, codewar, freecodecamp.etc
- <p> 🎮 I love to play video games too! FIFA and other adventurous games. I read books and watch presentations often, TEDx videos. </p>
- <p> ✈️ I invest in crypto,stocks and FIAT. </p>
+ <p> 🎮 I love to play video games too! FIFA and other adventurous games. I read books and watch presentations often, TEDx videos when free. </p>
+ <p> 🪙 I invest in crypto,stocks and FIAT. </p>
  <p> 💻 I spend on books and gadgets!. </p> 
 
 
