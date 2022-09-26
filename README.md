@@ -21,9 +21,10 @@ Moi,
 
 ---
 
-What I do. 
+Tools and Tech. 
 
 <p>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" /> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?logo=Bootstrap&logoColor=white&style=for-the-badge" />  
