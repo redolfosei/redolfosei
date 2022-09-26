@@ -15,7 +15,7 @@ Moi,
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
  <p> ⏱️ I spend most of my time coding and learning new stuff on project documentations, udemy, theodinproject, youtube, coursera, codewar, freecodecamp.
  <p> 🎮 I love to play video games too! FIFA and other adventurous games. I read books and watch presentations often, TEDx videos. </p>
- <p> ✈️ I love to travel. I invest in crypto,stock and FIAT money. </p>
+ <p> ✈️ I invest in crypto,stocks and FIAT. </p>
  <p> 💻 I spend on books and gadgets!. </p> 
 
 
