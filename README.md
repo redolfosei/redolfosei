@@ -40,7 +40,7 @@ Tools and Tech I use.
 ---
 
 Send me a message
-  - I'm open for collaboration, so feel free to send me a message. You can also find me here.
+  - I'm open for collaboration and offers, so feel free to send me a message. You can also find me here.
 <a href="https://www.linkedin.com/in/redolf">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
