@@ -37,6 +37,7 @@ Some of the Tools and Tech I use.
 <img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" /> 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
 <img alt="GoDaddy" src="https://img.shields.io/badge/GoDaddy-1BDBDB?logo=GoDaddy&logoColor=white&style=for-the-badge" /> 
 <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white&style=for-the-badge" /> 
