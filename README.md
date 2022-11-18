@@ -11,9 +11,8 @@ Moi,
  <p> 🎓 Graduated with Bachelor's Degree in BScICT.</p>
  <p> ⚡ More of a self-learner who loves learning new technologies and tools from the internet. </p>
  <p> ✌️ Super positive and I always look forward for new adventures in technology.</p>
- <p> 😎 I am a self-trained Web Developer and my journey began at my age of 20!. </p>
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
- <p> ⏱️ I spend most of my time coding and learning new stuff from documentations, udemy, theodinproject, youtube, coursera, codewar, freecodecamp.etc
+ <p> ⏱️ I spend most of my time coding and learning new stuff from documentations, ALX, udemy, theodinproject, youtube, coursera, codewar, freecodecamp.etc
  <p> 🎮 I love to play video games too! FIFA and other adventurous games. I read books and watch presentations often, TEDx videos when free. </p>
  <p> 🪙 I invest in crypto,stocks and FIAT. </p>
  <p> 💻 I spend on books and gadgets!. </p> 
@@ -24,6 +23,7 @@ Moi,
 Some of the Tools and Tech I use. 
 
 <p>
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />  
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" /> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> 
@@ -46,9 +46,7 @@ Some of the Tools and Tech I use.
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" />
 <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?logo=Microsoft&logoColor=white&style=for-the-badge" /> 
-<img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=for-the-badge" />
-
- 
+<img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=for-the-badge" /> 
 </p>
 
 ---
