@@ -46,7 +46,9 @@ Some of the Tools and Tech I use.
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" />
 <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?logo=Microsoft&logoColor=white&style=for-the-badge" /> 
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge" />
 <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=for-the-badge" /> 
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" /> 
 </p>
 
 ---
