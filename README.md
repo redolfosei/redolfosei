@@ -9,7 +9,7 @@
 Moi,
 
  <p> 🎓 Graduated with Bachelor's Degree in BScICT.</p>
- <p> ⚡ More of a self-learner who loves learning new technologies and tools from the internet. </p>
+ <p> ⚡ Loves to learn new technologies and tools from the internet. </p>
  <p> ✌️ Super positive and I always look forward for new adventures in technology.</p>
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
  <p> ⏱️ I spend most of my time coding and learning new stuff from documentations, ALX, udemy, theodinproject, youtube, coursera, codewar, freecodecamp.etc
