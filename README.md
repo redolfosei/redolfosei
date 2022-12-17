@@ -1,8 +1,6 @@
 <img src="/banner0099.png" alt="banner">
 <p> <b> ### Hola! 👋, welcome to my github page. </b> </p>
-<p> I am Redolf Kwame Osei, you might find the things I do interesting. </p>
-<p> You are free to use my work and even improve upon them. </p>
-<p> You can share with me, if you improve on any of my works, I will be curious about that. 😊 </p>
+<p> I am Redolf Kwame Osei, you might find the things I do interesting. 😊</p>
 
 ---
 
