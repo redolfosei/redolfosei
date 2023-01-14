@@ -63,9 +63,9 @@ Send me a message
 
 ### Github stats
 <img
-  src="https://github-readme-stats.vercel.app/api?username=redolfosei&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=RedolF+Osei's+GitHub+Stats&show_icons=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=redolfosei&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=RedolF+Osei's+GitHub+Stats&show_icons=true"
 />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redolfosei"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=redolfosei"/>
 
 
