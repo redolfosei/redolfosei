@@ -30,6 +30,8 @@ Some of the Tools and Tech I use.
 <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white&style=for-the-badge" /> 
 <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=Shopify&logoColor=white&style=for-the-badge" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge" />
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white&style=for-the-badge" />  
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=Kibana&logoColor=white&style=for-the-badge" /> 
 <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?logo=ClickUp&logoColor=white&style=for-the-badge" /> 
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=for-the-badge" />  
 <img alt="Jira Software" src="https://img.shields.io/badge/Jira Software-0052CC?logo=Jira Software&logoColor=white&style=for-the-badge" />
