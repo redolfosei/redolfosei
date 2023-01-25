@@ -48,7 +48,7 @@ Some of the Tools and Tech I use.
 
 Moi,
 
- <p> 🎓 Graduated with Bachelor's Degree in BScICT.</p>
+ <p> 🎓 Graduated with Bachelor's Degree in BSc. Information and Communications Technology.</p>
  <p> ⚡ Loves to learn new technologies and tools from the internet. </p>
  <p> ✌️ Super positive and I always look forward for new adventures in technology.</p>
  <p> 👐 I hate restricting myself to a single domain and I always try to extend my interest in multiple domains.</p>
