@@ -17,6 +17,9 @@ Some of the Tools and Tech I use.
 <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="python" src="https://img.shields.io/badge/Python-yellow?logo=python&logicColor=white&style=for-the-badge"/> 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white&style=for-the-badge" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=MySQL&logoColor=white&style=for-the-badge" /> 
 <img alt="Web3" src="https://img.shields.io/badge/Web3-f16822?logo=Web3.js&logoColor=white&style=for-the-badge" /> 
 <img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" /> 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
@@ -27,6 +30,10 @@ Some of the Tools and Tech I use.
 <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?logo=Namecheap&logoColor=white&style=for-the-badge" /> 
 <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=Shopify&logoColor=white&style=for-the-badge" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge" />
+<img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?logo=ClickUp&logoColor=white&style=for-the-badge" /> 
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=for-the-badge" />  
+<img alt="Jira Software" src="https://img.shields.io/badge/Jira Software-0052CC?logo=Jira Software&logoColor=white&style=for-the-badge" />
+<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge" />  
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" />
 <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?logo=Microsoft&logoColor=white&style=for-the-badge" /> 
