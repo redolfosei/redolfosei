@@ -7,21 +7,21 @@
 Some of the Tools and Tech I use. 
 
 <p>
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />  
+<!-- <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />   -->
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" /> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?logo=Bootstrap&logoColor=white&style=for-the-badge" />  
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> 
-<img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+<!-- <img alt="NodeJs" src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" /> -->
 <img alt="python" src="https://img.shields.io/badge/Python-yellow?logo=python&logicColor=white&style=for-the-badge"/> 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white&style=for-the-badge" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=MySQL&logoColor=white&style=for-the-badge" /> 
 <img alt="Web3" src="https://img.shields.io/badge/Web3-f16822?logo=Web3.js&logoColor=white&style=for-the-badge" /> 
-<img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" /> 
+<!-- <img alt="Dapps" src="https://img.shields.io/badge/Dapps-f16822?logo=Dapps&logoColor=white&style=for-the-badge" />  -->
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
