@@ -34,10 +34,10 @@ Some of the Tools and Tech I use.
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=Kibana&logoColor=white&style=for-the-badge" /> 
 <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?logo=ClickUp&logoColor=white&style=for-the-badge" /> 
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=for-the-badge" />  
-<img alt="Jira Software" src="https://img.shields.io/badge/Jira Software-0052CC?logo=Jira Software&logoColor=white&style=for-the-badge" />
+<!-- <img alt="Jira Software" src="https://img.shields.io/badge/Jira Software-0052CC?logo=Jira Software&logoColor=white&style=for-the-badge" /> -->
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge" />  
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
-<img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" />
+<!-- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" /> 
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?logo=Kali Linux&logoColor=white&style=for-the-badge" /> -->
 <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?logo=Microsoft&logoColor=white&style=for-the-badge" /> 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge" />
 <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=for-the-badge" /> 
